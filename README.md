@@ -1,7 +1,16 @@
-## __Coursera Capstone__
+## __Car Accident Severity__
 
-El objetivo de este repositorio es fungir como una muestra de lo desarrollado dentro del certificado de Coursera:
+The objective of this repository is to serve as a sample of what was developed within the Coursera certificate:
 
-"IBM Data Science Certificado profesional"
+"IBM Data Science Professional Certificate"
 
-El cual esta enfocado en el desarrollo de habilidades básicas para la implementación, desarrollo y evaluación de proyectos de Ciencia de Datos
+Which is focused on the development of basic skills for the implementation, development and evaluation of Data Science projects
+
+
+The project seeks to exemplify a model for data analysis and prediction of the severity of an accident in the San Francisco area. Information is provided on the characteristics of the weather and crash conditions.
+
+https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClass/DP0701EN/version-2/Data-Collisions.csv
+
+And it can be found in:
+
+which is a public IBM cloud bucket.
