@@ -2,7 +2,7 @@
 
 The objective of this repository is to serve as a sample of what was developed within the Coursera certificate:
 
-                                            "IBM Data Science Professional Certificate"
+                                           "IBM Data Science Professional Certificate"
 
 Which is focused on the development of basic skills for the implementation, development and evaluation of Data Science projects
 
@@ -14,3 +14,17 @@ https://s3.us.cloud-object-storage.appdomain.cloud/cf-courses-data/CognitiveClas
 And it can be found in:
 
 which is a public IBM cloud bucket.
+
+
+Normal Text
+
+<p align="center">
+  <b>Some Links:</b><br>
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+  <img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
+Normal text
