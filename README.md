@@ -2,7 +2,7 @@
 
 The objective of this repository is to serve as a sample of what was developed within the Coursera certificate:
 
-"IBM Data Science Professional Certificate"
+                                            "IBM Data Science Professional Certificate"
 
 Which is focused on the development of basic skills for the implementation, development and evaluation of Data Science projects
 
